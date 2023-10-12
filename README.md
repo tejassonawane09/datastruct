@@ -1,0 +1,2 @@
+# datastruct
+prgraam og ds
